@@ -1,0 +1,9 @@
+{
+	"DAT": {
+		"menu": [
+			["temperature", "temp_c"], 
+			["pressure", "press_pa"],
+			["humidity", "humidity"], 
+			["altitudu", "cal_altitudu"]
+		]	}
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     

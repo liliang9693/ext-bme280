@@ -1,0 +1,12 @@
+{
+    "bme280.bme280_init|block": "初始化BME280传感器" ,
+    "bme280.bme280_read_data|block": "获取传感器[DAT]数据" ,
+
+    "bme280.DAT.temperature|menu": "温度（℃）",
+    "bme280.DAT.pressure|menu": "气压(Pa)",
+    "bme280.DAT.humidity|menu": "湿度(%rh)",
+    "bme280.DAT.altitudu|menu": "海拔(m)"
+    
+    
+     
+}
