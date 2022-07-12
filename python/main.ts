@@ -4,7 +4,7 @@ namespace bme280{
     //% block="BME280 begin while success" blockType="command" 
     export function bme280_init(parameter: any, block: any) {
 
-        Generator.addImport("from pinpong.libs.dfrobot_bme680 import DFRobot_BME680");
+        Generator.addImport("from pinpong.libs.dfrobot_bme280 import BME280");
         Generator.addCode("bme280 = BME280()");
    
     }
